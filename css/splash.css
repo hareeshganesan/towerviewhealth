@@ -27,7 +27,7 @@
 	color: #444;
 	margin-left: 50%;
 	margin-right: 50%;
-	margin-top: 90%;
+	margin-top: 85%;
 }
 
 .down-arrow-3{
@@ -36,7 +36,7 @@
 	color: #FFF;
 	margin-left: 50%;
 	margin-right: 50%;
-	margin-top: 140%;
+	margin-top: 134%;
 }
 
 .down-arrow-4{
@@ -45,7 +45,7 @@
 	color: #FFF;
 	margin-left: 50%;
 	margin-right: 50%;
-	margin-top: 140%;
+	margin-top: 134%;
 }
 
 
@@ -79,7 +79,7 @@
 		padding: 30px;
 		padding-left:60px;
 		position: absolute;
-		top: 240%;
+		top: 235%;
 		opacity:0.8;
 		filter:alpha(opacity=70);
 }

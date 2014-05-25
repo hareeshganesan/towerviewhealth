@@ -1,0 +1,105 @@
+.patient_info{
+	width:800px;
+	margin-top:50px;
+}
+
+.patient_name{
+	font-size:28px;
+	font-weight:bold;
+}
+
+
+.meta_data p{
+	color:#AAA;
+	margin:0 0 0 0;
+}
+
+.meta_label{
+	font-size:14px;
+	display: inline;
+}
+
+.meta_value{
+	display:inline;
+	color:#333;
+}
+
+.divider{
+	color:orange;
+}
+
+.regimen_header{
+	font-weight: bold;
+	margin-left:15px;
+	font-size:20px;
+}
+.regimen_list{
+	list-style: none;
+}
+
+.med_name{
+	display:inline;
+}
+
+.compliance_val{
+	display:inline;
+	font-size:15px;
+}
+
+.med_dose{
+	display:inline;
+	font-size:13px;
+}
+
+.dose_row{
+	list-style: none;
+	padding-left:15px;
+}
+.dose_box{
+	background-color: gray;
+	color: white;
+	height:60px;
+	width:60px;
+	padding-top:16px;
+}
+
+.dose_text p{
+	margin:0 0 0 0;
+	margin-top:-4px;
+}
+
+.dose_text{
+	margin-left:15px;
+}
+
+.day_name{
+	font-size:14px;
+}
+
+
+.time_name{
+	font-size:14px;
+}
+
+.compliance_label{
+	display:inline;
+	color:#555;
+	font-size:14px;
+}
+
+.regimen-divider{
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+.regimen_info{
+	margin-top:10px;
+}
+.dose_el{
+	display:inline-block;
+}
+
+.dial-container-user{
+	width:100px;
+	height:100px;
+}

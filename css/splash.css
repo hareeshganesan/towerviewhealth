@@ -118,6 +118,13 @@
 }
 
 .image-title{
-	font-weight:bold;
-	top:40%;
+	background-color: #FFF;
+	height: 100px;
+	font-size: 36px;
+	font-weight: bold;
+	padding-top: 22px;
+	position: absolute;
+	top: 40%;
+	opacity:0.85;
+	filter:alpha(opacity=85);
 }

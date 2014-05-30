@@ -104,7 +104,7 @@
 .message-section{
 	padding-top:60px;
 	padding-bottom:60px;
-	background-color: #235f9d;
+	background-color: #235F9D;
 	color:white;
 }
 
@@ -115,4 +115,9 @@
 
 .msg-text{
 	font-size:22px;
+}
+
+.image-title{
+	font-weight:bold;
+	top:40%;
 }

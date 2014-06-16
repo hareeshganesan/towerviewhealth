@@ -42,15 +42,15 @@ body, h1, h2, h3, h4, h5, h6 {
 
 .intro-message {
 	position: relative;
-	padding-top: 20%;
-	padding-bottom: 20%;
-	color:black;
+	padding-top: 36%;
+	padding-bottom: 3%;
 }
 
 .intro-message > h1 {
 	margin: 0;
 	font-size: 5em;
-	font-family: "Lora", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+
 }
 
 .intro-divider {
@@ -60,8 +60,7 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 
 .intro-message > h3 {
-	opacity:0.5;
-		text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+	text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
 
 }
 
@@ -103,23 +102,14 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 
 .content-section-b {
-	background: url(../img/group.jpg) no-repeat;
-	background-size: cover;
-	border-top: 1px solid #e7e7e7;
-	border-bottom: 1px solid #e7e7e7;
+	border-top: 1px solid #E7E7E7;
+	border-bottom: 1px solid #E7E7E7;
 	padding: 50px 0;
-	padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
-	padding-bottom: 50px;
 }
 
 .section-heading {
 	margin-bottom: 30px;
 	color:gray;
-}
-
-.section-b-content{
-	background-color: rgba(255, 255, 255, 0.8);
-	padding:2%;
 }
 
 .section-heading-spacer {
@@ -128,20 +118,19 @@ body, h1, h2, h3, h4, h5, h6 {
 	float: left;
 }
 
-.section-heading-spacer-b {
-	border-top: 3px solid #888;
-	width: 200px;
-	float: left;
+.img-section-b{
+	margin-top: 4%;
 }
 
-.section-b-heading{
-	color:black;
+.img-section-b > img {
+	-moz-border-radius: 10px;
+  border-radius: 10px;
 }
 .banner {
-	padding: 100px 0;
+	padding: 50px 0;
 	color: #f8f8f8;
-	background: url(../img/coffee.jpg) no-repeat;
-	background-size: cover;
+	background-color: rgba(31,56,71,1);
+	border-top: 1px solid rgb(30,56,70);
 }
 
 .banner h2 {
@@ -153,6 +142,7 @@ body, h1, h2, h3, h4, h5, h6 {
 
 .banner ul {
 	margin-bottom: 0;
+	margin-top:3em;
 }
 
 .banner-social-buttons {
@@ -195,7 +185,7 @@ p.copyright {
 }
 
 .btn-xlarge {
-    padding: 18px 28px;
+    padding: 9px 28px;
     font-size: 22px;
     line-height: normal;
     -webkit-border-radius: 8px;
